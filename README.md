@@ -30,3 +30,5 @@ Whether you’re after a quick caffeine fix or a relaxing place to unwind, Cebu�
 
 
 If you’ve visited cafés in Cebu and want to share recommendations, feel free to open an issue or submit a pull request! Let’s make this guide even better for fellow coffee lovers.
+
+
