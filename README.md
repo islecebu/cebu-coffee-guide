@@ -12,20 +12,21 @@ Why This Guide Matters
 
 Planning a café crawl can be overwhelming, so I relied on a curated list of Cebu coffee shops to make the experience seamless. The guide helped me discover both popular spots near IT Park and Ayala and hidden gems that are worth visiting:
 
-🔗 Explore the complete list of Cebu coffee shops
+🔗 Explore the complete list of Cebu coffee shops: 
+https://islecebu.com/business/coffeeshops/
 
-Highlights from My Café-Hopping Adventure
+Highlights from My Café-Hopping Adventure:
 
-Work-friendly cafés: Plenty of outlets, good WiFi, and quiet corners.
+-Work-friendly cafés: Plenty of outlets, good WiFi, and quiet corners.
 
-Aesthetic & cozy interiors: Great for photos or relaxing.
+-Aesthetic & cozy interiors: Great for photos or relaxing.
 
-Affordable and budget-friendly: Enjoy quality coffee without overspending.
+-Affordable and budget-friendly: Enjoy quality coffee without overspending.
 
-Specialty brews & local flavors: Unique drinks you won’t find anywhere else.
+-Specialty brews & local flavors: Unique drinks you won’t find anywhere else.
+
 
 Whether you’re after a quick caffeine fix or a relaxing place to unwind, Cebu’s cafés offer something for everyone.
 
-Contributing
 
 If you’ve visited cafés in Cebu and want to share recommendations, feel free to open an issue or submit a pull request! Let’s make this guide even better for fellow coffee lovers.
