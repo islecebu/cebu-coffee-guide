@@ -13,7 +13,7 @@ Why This Guide Matters
 Planning a café crawl can be overwhelming, so I relied on a curated list of Cebu coffee shops to make the experience seamless. The guide helped me discover both popular spots near IT Park and Ayala and hidden gems that are worth visiting:
 
 🔗 Explore the complete list of Cebu coffee shops: 
-https://islecebu.com/coffeeshops/
+https://islecebu.com/categories/coffee-shops
 
 Highlights from My Café-Hopping Adventure:
 
